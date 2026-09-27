@@ -1,0 +1,177 @@
+{
+  "product_id": "vedcare-build",
+  "name": "VedCare Build",
+  "category": "Mass / Weight Gain",
+  "positioning": "Weight/mass gain + muscle building",
+  "offer_price_inr": 2399,
+  "mrp_inr": 2599,
+  "pack_duration": "1 month",
+  "net_quantity_g": 150,
+  "serving_size_g": 3,
+  "servings": null,
+  "product_information": {
+    "suitable_for": "Men & Women",
+    "form": "Powder",
+    "type": "Ayurvedic Proprietary Medicine"
+  },
+  "herb_count": 38,
+  "rating": {
+    "value": 5,
+    "customer_count_label": "1 customer story"
+  },
+  "product_image": "assets/images/vedcare-build.png",
+  "gallery_images": [
+    "assets/images/products/vedcare-build/vedcare-build-main.png",
+    "assets/images/products/vedcare-build/vedcare-build-back.png",
+    "assets/images/products/vedcare-build/vedcare-build-label.png"
+  ],
+  "hero_highlights": [
+    { "value": "38", "label": "POWERFUL HERBS" },
+    { "value": "3–8 kg", "label": "Healthy Weight Gain*" },
+    { "value": "100%", "label": "Ayurvedic Formula" }
+  ],
+  "benefits": [
+    "Supports digestion and nutrient absorption.",
+    "Supports immunity and overall wellness.",
+    "Supports muscle recovery and muscle-building routines.",
+    "Supports bone, muscle and cartilage strength.",
+    "Supports healthy blood circulation.",
+    "Supports energy and stamina.",
+    "Supports hormonal balance.",
+    "Supports stamina and strength.",
+    "Supports healthy weight gain.",
+    "Supports body mass index management.",
+    "Supports protein, carbohydrate and fat utilization.",
+    "Supports skin quality and a healthy appearance.",
+    "Made with Ayurvedic herbs.",
+    "Formulated without added steroids, where supported by official documentation."
+  ],
+  "hindi_benefits": [
+    "पाचन और पोषक तत्वों का बेहतर अवशोषण",
+    "रोग-प्रतिरोधक क्षमता और संपूर्ण स्वास्थ्य में सुधार",
+    "मांसपेशियों की रिकवरी और विकास को बढ़ावा",
+    "हड्डियों, मांसपेशियों और उपास्थि की मजबूती",
+    "स्वस्थ रक्त संचार को बढ़ावा",
+    "ऊर्जा और सहनशक्ति में वृद्धि",
+    "हार्मोनल संतुलन का समर्थन",
+    "शारीरिक सहनशक्ति और ताकत में सुधार",
+    "स्वस्थ वजन बढ़ाने में सहयोग",
+    "शरीर के बॉडी मास इंडेक्स (बीएमआई) का प्रबंधन",
+    "प्रोटीन, कार्बोहाइड्रेट और चर्बी के बेहतर उपयोग को बढ़ावा",
+    "त्वचा की गुणवत्ता और स्वस्थ रूप-रंग में सुधार",
+    "आयुर्वेदिक जड़ी-बूटियों से निर्मित"
+  ],
+  "key_ingredients": [
+    {
+      "name": "Safed Musali",
+      "botanical_name": "Chlorophytum borivilianum",
+      "amount_mg": 300,
+      "image": "assets/images/ingredients/safed-musali.png"
+    },
+    {
+      "name": "Ashwagandha",
+      "botanical_name": "Withania somnifera",
+      "amount_mg": 300,
+      "image": "assets/images/ingredients/ashwagandha.png"
+    },
+    {
+      "name": "Satavar/Shatavari",
+      "botanical_name": "Asparagus racemosus",
+      "amount_mg": 250,
+      "image": "assets/images/ingredients/shatavari.png"
+    },
+    {
+      "name": "Gokshura",
+      "botanical_name": "Tribulus terrestris",
+      "amount_mg": 200,
+      "image": "assets/images/ingredients/gokshura.png"
+    },
+    {
+      "name": "Vidarikand",
+      "botanical_name": "Pueraria tuberosa",
+      "amount_mg": 100,
+      "image": "assets/images/ingredients/vidarikand.png"
+    },
+    {
+      "name": "Draksha",
+      "botanical_name": "Vitis vinifera",
+      "amount_mg": 100,
+      "image": "assets/images/ingredients/draksha.png"
+    },
+    {
+      "name": "Kaunch Beej",
+      "botanical_name": "Mucuna pruriens",
+      "amount_mg": 100,
+      "image": "assets/images/ingredients/kaunch-beej.png"
+    }
+  ],
+  "additional_documented_ingredients": [
+    "Bala",
+    "Beetroot",
+    "Chitrak",
+    "Devdaru",
+    "Mandookaparni",
+    "Nagkeshar",
+    "Shankhpushpi",
+    "Nimba",
+    "Lavang",
+    "Tamal Patri",
+    "Pipali",
+    "Vrikshamla",
+    "Kyushna Miri",
+    "Brahmi",
+    "Shuddh Guggule",
+    "Malkoda Singi",
+    "Shunthi",
+    "Dalchini",
+    "Elaichi",
+    "Tulsi",
+    "Halad",
+    "Akkalkara",
+    "Keshar",
+    "Jaiphal",
+    "Tallim Khanan",
+    "Jeevanti",
+    "Utangan",
+    "Javitri",
+    "Salampanja",
+    "Musta"
+  ],
+  "full_ingredient_list": {
+    "status": "complete",
+    "verified_total_count": 38,
+    "note": "The supplied product information lists 38 ingredients."
+  },
+  "how_to_use": {
+    "dose": "One inbuilt flat plain spoon (approximately 3 g).",
+    "directions": "Add one inbuilt flat plain spoon of supplement in the mouth, add normal water in the mouth, mix it well (like filling the mortar) and consume.",
+    "timing": "Take in the morning after breakfast and in the evening after dinner."
+  },
+  "storage": "Store in a cool and dry place.",
+  "videos": {
+    "information": "https://www.youtube.com/watch?v=OcCkNu6aYeg",
+    "transformation": "https://youtube.com/shorts/u8JAdg31fRE?si=FkNtmIxdm4cwy3Qh"
+  },
+  "testimonials": {
+    "data_source": "assets/data/testimonials.json",
+    "filter_product": "Vedcare Build"
+  },
+  "quality_you_can_trust": {
+    "use_existing_homepage_assets": true,
+    "compact_product_page_section": true,
+    "do_not_invent_certificate_numbers": true
+  },
+  "woocommerce": {
+    "product_id": 23,
+    "status": "configured"
+  },
+  "editability": {
+    "all_product_content_should_be_editable": true,
+    "price_editable": true,
+    "benefits_editable": true,
+    "ingredients_editable": true,
+    "how_to_use_editable": true,
+    "videos_editable": true,
+    "testimonials_filter_editable": true
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "image": "customer-01.jpeg",
+    "name": "Ganesh D.",
+    "location": "Pune",
+    "rating": 5,
+    "comment": "I was struggling to gain healthy weight despite eating regularly. After adding {product_name} to my daily routine, I gradually started noticing a difference in my appetite, energy and overall body weight. I feel stronger and more confident now.",
+    "product": "Vedcare Gold",
+    "active": true
+  },
+  {
+    "image": "customer-02.jpeg",
+    "name": "Amit K.",
+    "location": "Nagpur",
+    "rating": 5,
+    "comment": "I wanted to improve my overall physique and gain weight in a healthier way. {product_name} became part of my daily routine along with proper food and exercise. Over time, I noticed better progress and felt more energetic during my workouts.",
+    "product": "Vedcare Build",
+    "active": true
+  },
+  {
+    "image": "customer-03.jpeg",
+    "name": "Harshal P.",
+    "location": "Mumbai",
+    "rating": 5,
+    "comment": "I wanted to work on my weight and overall lifestyle without following extreme diets. I started focusing on better food choices, regular activity and included VedCare in my routine. Gradually, I began feeling lighter, more active and more confident.",
+    "product": "Vedcare Lean",
+    "active": true
+  },
+  {
+    "image": "customer-04.jpeg",
+    "name": "Vikram M.",
+    "location": "Bangalore",
+    "rating": 5,
+    "comment": "I had always found it difficult to put on weight. What I liked about {product_name} was that it fitted easily into my routine. Along with a proper diet, I noticed gradual improvement in my weight and overall strength. Happy with my experience.",
+    "product": "Vedcare Gold",
+    "active": true
+  },
+  {
+    "image": "customer-05.jpeg",
+    "name": "Priya R.",
+    "location": "Pune",
+    "rating": 5,
+    "comment": "My goal was to lose excess weight while maintaining a healthy routine. VedCare became one part of my overall wellness journey along with mindful eating and regular exercise. I’m happy with the gradual progress and how much better I feel.",
+    "product": "Vedcare Lean",
+    "active": true
+  }
+]

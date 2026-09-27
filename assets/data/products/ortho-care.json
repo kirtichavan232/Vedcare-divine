@@ -1,0 +1,188 @@
+{
+  "product_id": "ortho-care",
+  "name": "Ortho Care",
+  "category": "Joint Care / Joint Pain",
+  "positioning": "Joint wellness/care",
+  "offer_price_inr": 2299,
+  "mrp_inr": 2499,
+  "pack_duration": "1 month",
+  "net_quantity_g": 140,
+  "serving_size_g": 3,
+  "servings": null,
+
+  "product_information": {
+    "suitable_for": "Men & Women",
+    "form": "Powder",
+    "type": "Ayurvedic Proprietary Medicine"
+  },
+
+  "herb_count": 42,
+
+  "rating": {
+    "value": 5,
+    "customer_count_label": "1 customer story"
+  },
+
+  "product_image": "assets/images/products/ortho-care/ortho-care-main.png",
+
+  "gallery_images": [
+    "assets/images/products/ortho-care/ortho-care-main.png",
+    "assets/images/products/ortho-care/ortho-care-back.png",
+    "assets/images/products/ortho-care/ortho-care-label.png"
+  ],
+  "hero_highlights": [
+    { "value": "42", "label": "POWERFUL HERBS" },
+    { "value": "8–10 Days", "label": "Relief" },
+    { "value": "100%", "label": "Ayurvedic Formula" }
+  ],
+
+  "benefits": [
+    "Helps relieve joint stiffness and swelling.",
+    "Helps relieve knee and back discomfort.",
+    "Supports bone strength and recovery from everyday wear and weakness.",
+    "Helps support nerve and muscle comfort and reduce feelings of strain.",
+    "Provides supportive care for joint and musculoskeletal discomfort associated with conditions such as osteoarthritis, cervical discomfort and spondylitis.",
+    "Supports a more comfortable, active daily routine."
+  ],
+
+  "hindi_benefits": [
+    "जोड़ों की अकड़न और सूजन में राहत",
+    "घुटनों और कमर की असहजता में राहत",
+    "हड्डियों की मजबूती और रोज़मर्रा की कमजोरी से रिकवरी",
+    "नसों और मांसपेशियों में आराम तथा खिंचाव की समस्या में कमी",
+    "जोड़ों और मांसपेशियों से जुड़ी असहजता में सहायक देखभाल, जैसे ऑस्टियोआर्थराइटिस, गर्दन की तकलीफ और स्पॉन्डिलाइटिस",
+    "अधिक आरामदायक और सक्रिय दैनिक जीवनशैली"
+  ],
+
+  "key_ingredients": [
+    {
+      "name": "Hadsandhari",
+      "botanical_name": "Cissus quadrangularis",
+      "amount_mg": 200,
+      "image": "assets/images/ingredients/Hadsandhari.png"
+    },
+    {
+      "name": "Nirgundi Patra",
+      "botanical_name": "Vitex negundo Linn",
+      "amount_mg": 200,
+      "image": "assets/images/ingredients/Nirgundi Patra.png"
+    },
+    {
+      "name": "Arjuna Chaal Bark",
+      "botanical_name": "Terminalia arjuna",
+      "amount_mg": 150,
+      "image": "assets/images/ingredients/Arjuna Chaal Bark.png"
+    },
+    {
+      "name": "Methi Beej",
+      "botanical_name": "Trigonella foenum-graecum",
+      "amount_mg": 125,
+      "image": "assets/images/ingredients/Methi Beej.png"
+    },
+    {
+      "name": "Shuddha Guggul",
+      "botanical_name": "Commiphora wightii",
+      "amount_mg": 100,
+      "image": "assets/images/ingredients/Shuddha Guggul.png"
+    },
+    {
+      "name": "Salai Guggul",
+      "botanical_name": "Boswellia serrata",
+      "amount_mg": 100,
+      "image": "assets/images/ingredients/Salai Guggul.png"
+    },
+    {
+      "name": "Ashwagandha",
+      "botanical_name": "Withania somnifera",
+      "amount_mg": 100,
+      "image": "assets/images/ingredients/Ashwagandha.png"
+    },
+    {
+      "name": "Haridra",
+      "botanical_name": "Curcuma longa",
+      "amount_mg": 100,
+      "image": "assets/images/ingredients/Haridra.png"
+    },
+    {
+      "name": "Bala",
+      "botanical_name": "Sida cordifolia",
+      "amount_mg": 100,
+      "image": "assets/images/ingredients/Bala.png"
+    },
+    {
+      "name": "Soonth",
+      "botanical_name": "Zingiber officinale",
+      "amount_mg": 100,
+      "image": "assets/images/ingredients/Soonth.png"
+    }
+  ],
+
+  "additional_documented_ingredients": [
+    "Moringa",
+    "Parijat",
+    "Mulethi",
+    "Rose Petal",
+    "Draksha Rasa",
+    "Gokshura",
+    "Amalaki",
+    "Aloevera",
+    "Vidarikand",
+    "Nima",
+    "Krishna Tulsi",
+    "Dev Daru",
+    "Tagar",
+    "Katha",
+    "Triphala",
+    "Nishottar",
+    "Chitrak"
+  ],
+
+  "full_ingredient_list": {
+    "status": "partial",
+    "verified_total_count": 27,
+    "note": "The supplied product information states a 42-herb formulation and documents 27 named ingredients: 10 quantified/main herbs and 17 additional documented ingredients. The remaining ingredients were not supplied."
+  },
+
+  "how_to_use": {
+    "dose": "One inbuilt flat plain spoon (approximately 3 g).",
+    "directions": "Take one inbuilt flat plain spoon of supplement in the in mouth then add warm water in mouth itself, mix it well (like filling the mortar) and consume with cup of water.",
+    "timing": "Take it in the morning & evening after breakfast & dinner respectively.",
+    "precautions": [
+      "Children should avoid this product.",
+      "Pregnant women should avoid this product."
+    ]
+  },
+
+  "storage": "Store in a cool and dry place.",
+
+  "videos": {
+    "information": "https://youtube.com/shorts/QwJegmLYUNM?si=HCk58ATSmyRoPYYM",
+    "transformation": "https://youtube.com/shorts/dhPOheT_4Fw?si=nZ_vz1baUz-SgwzO"
+  },
+
+  "testimonials": {
+    "data_source": "assets/data/testimonials.json",
+    "filter_product": "Ortho Care"
+  },
+
+  "quality_you_can_trust": {
+    "use_existing_homepage_assets": true,
+    "compact_product_page_section": true,
+    "do_not_invent_certificate_numbers": true
+  },
+
+  "woocommerce": {
+    "product_id": 31,
+    "status": "configured"
+  },
+
+  "editability": {
+    "all_product_content_should_be_editable": true,
+    "price_editable": true,
+    "benefits_editable": true,
+    "ingredients_editable": true,
+    "how_to_use_editable": true,
+    "videos_editable": true,
+    "testimonials_filter_editable": true
+  }
+}

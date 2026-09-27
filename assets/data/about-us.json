@@ -1,0 +1,181 @@
+{
+  "page_id": "about-us",
+  "title": "About VedCare Divine",
+  "tagline_primary": "Pure Ayurveda. Better Health. A Brighter You.",
+  "tagline_secondary": "Wellness Inspired by Ayurveda. Designed for You.",
+  "hero": {
+    "eyebrow": "ABOUT VEDCARE DIVINE",
+    "heading": "25 Years of Ayurvedic Experience. One Commitment — Your Wellness."
+  },
+  "who_we_are": {
+    "heading": "Who We Are",
+    "paragraphs": [
+      "VedCare Divine is a trusted Ayurvedic wellness brand dedicated to promoting healthy living through Ayurvedic wellness solutions and quality products. The brand combines Ayurveda, nutrition, wellness, strength and personal guidance to support people on their individual wellness journeys.",
+      "For 25 years, our focus has been on preserving and promoting the traditional wisdom of Ayurveda while maintaining a strong commitment to quality, consistency and customer satisfaction.",
+      "VedCare Divine brings together traditional Ayurvedic principles and a modern approach to wellness — helping people make informed choices for their individual wellness journeys."
+    ]
+  },
+  "twenty_five_years": {
+    "heading": "25 Years of Trust in Ayurveda",
+    "subheading": "A journey built on experience, commitment and wellness.",
+    "paragraphs": [
+      "For over 25 years, our focus has remained simple: preserve the wisdom of Ayurveda while making wellness relevant to today’s lifestyle.",
+      "Throughout this journey, we have remained committed to quality-focused processes, Ayurvedic wellness and the people who choose to trust VedCare Divine."
+    ],
+    "highlight": "25 years of experience isn’t just a milestone. It’s a commitment we continue to carry forward.",
+    "image": "assets/images/about/25-years-ayurveda.png"
+  },
+  "what_we_believe": {
+    "heading": "What We Believe",
+    "subheading": "Traditional Wisdom. Modern Wellness.",
+    "paragraphs": [
+      "At VedCare Divine, we believe wellness is not about a quick solution.",
+      "It is about supporting a healthier and more confident lifestyle through consistent choices and the right approach."
+    ],
+    "intro": "Our philosophy is built around three principles:",
+    "principles": [
+      {
+        "title": "Rooted in Ayurveda",
+        "description": "We remain connected to the traditional wisdom and principles of Ayurveda."
+      },
+      {
+        "title": "Focused on Quality",
+        "description": "We believe consistency and quality are essential to creating products people can confidently include in their wellness journey."
+      },
+      {
+        "title": "Centered Around People",
+        "description": "Every wellness journey is different. We strive to put customer needs, guidance and satisfaction at the heart of what we do."
+      }
+    ]
+  },
+  "our_commitment": {
+    "heading": "Our Commitment",
+    "subheading": "What VedCare Divine Stands For",
+    "items": [
+      {
+        "title": "25 Years of Ayurvedic Experience",
+        "description": "A journey built around Ayurveda, experience and wellness."
+      },
+      {
+        "title": "100% Ayurvedic Wellness Focus",
+        "description": "Our commitment to Ayurvedic wellness solutions."
+      },
+      {
+        "title": "Quality-Focused Products & Processes",
+        "description": "A strong focus on consistency and quality."
+      },
+      {
+        "title": "Customer-First Approach",
+        "description": "Putting customer needs and satisfaction first."
+      },
+      {
+        "title": "Healthy Lifestyle Support",
+        "description": "Supporting people in pursuing healthier lifestyles."
+      },
+      {
+        "title": "Continuous Improvement & Innovation",
+        "description": "Evolving our approach while staying connected to our roots."
+      }
+    ]
+  },
+  "wellness_approach": {
+    "heading": "Our Wellness Approach",
+    "subheading": "Ayurveda for Different Wellness Goals",
+    "paragraphs": [
+      "Everyone’s wellness journey is different. That’s why VedCare Divine’s product range is designed around different wellness needs and goals.",
+      "Our current portfolio includes five products:"
+    ],
+    "products": [
+      "VedCare Gold",
+      "VedCare Build",
+      "VedCare Build Mini",
+      "VedCare Lean",
+      "Ortho Care"
+    ],
+    "categories": [
+      {
+        "title": "Mass & Weight Gain",
+        "products": [
+          "VedCare Gold",
+          "VedCare Build",
+          "VedCare Build Mini"
+        ]
+      },
+      {
+        "title": "Fat Loss & Muscle Building",
+        "products": [
+          "VedCare Lean"
+        ]
+      },
+      {
+        "title": "Joint Wellness",
+        "products": [
+          "Ortho Care"
+        ]
+      }
+    ],
+    "cta": {
+      "label": "Explore Our Products",
+      "url": "/shop/"
+    }
+  },
+  "quality_consistency": {
+    "heading": "Quality & Consistency",
+    "subheading": "Because Your Trust Matters",
+    "paragraphs": [
+      "Choosing a wellness product is a personal decision.",
+      "That’s why our approach goes beyond simply offering products.",
+      "We are committed to maintaining a strong focus on quality, consistency and customer satisfaction throughout our journey."
+    ],
+    "brand_statement": "Your trust is not something we take for granted. It is something we work to earn every day."
+  },
+  "journey_continues": {
+    "heading": "Our Journey Continues",
+    "subheading": "25 Years Behind Us. A Healthier Future Ahead.",
+    "paragraphs": [
+      "From our Ayurvedic roots to our growing range of wellness solutions, VedCare Divine continues to move forward with the same core commitment:",
+      "We believe the future of wellness lies in bringing together traditional knowledge, quality-focused products and a modern understanding of people’s lifestyles and goals."
+    ],
+    "highlight": "Ayurveda. Quality. Wellness. People.",
+    "closing": "And our journey doesn’t stop here."
+  },
+  "product_guidance": {
+    "heading": "Need Help Choosing a Product?",
+    "subheading": "Not sure which product is right for you?",
+    "text": "Talk to the VedCare Divine team for product-specific guidance.",
+    "cta": {
+      "label": "Talk to an Expert",
+      "url": "/#contact"
+    }
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Shop",
+      "url": "/shop/"
+    },
+    {
+      "label": "Why VedCare",
+      "url": "/#why-vedcare"
+    },
+    {
+      "label": "About Us",
+      "url": "/about-us/"
+    },
+    {
+      "label": "FAQs",
+      "url": "/faqs/"
+    },
+    {
+      "label": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "label": "Contact",
+      "url": "/#contact"
+    }
+  ]
+}
